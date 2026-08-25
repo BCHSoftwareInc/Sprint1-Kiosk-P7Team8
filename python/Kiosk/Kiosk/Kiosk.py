@@ -1,0 +1,6 @@
+print("What is your name?")
+name= input()
+print("+------------------------------------------+")
+print("|                APEX ENTERTAINMENT PASS   |")
+print("+------------------------------------------+")
+print("| Attendee :" + name.ljust(31) + "|" )
